@@ -1,0 +1,1 @@
+public class ListarActividadesConCupoDisponibleUseCase { public List<ActividadDeportiva> Ejecutar() => new(); }

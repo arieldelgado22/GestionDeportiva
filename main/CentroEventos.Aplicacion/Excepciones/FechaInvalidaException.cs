@@ -1,0 +1,1 @@
+public class FechaInvalidaException : Exception { public FechaInvalidaException(string msg) : base(msg) {} }

@@ -1,0 +1,1 @@
+public class Reserva { public int Id { get; set; } }

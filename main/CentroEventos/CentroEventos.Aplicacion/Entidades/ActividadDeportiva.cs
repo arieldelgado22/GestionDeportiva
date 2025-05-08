@@ -1,0 +1,1 @@
+public class ActividadDeportiva { public int Id { get; set; } }

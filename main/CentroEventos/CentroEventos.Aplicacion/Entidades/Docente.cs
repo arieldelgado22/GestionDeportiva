@@ -1,0 +1,1 @@
+public class Docente : Persona { public string Matricula { get; set; } }

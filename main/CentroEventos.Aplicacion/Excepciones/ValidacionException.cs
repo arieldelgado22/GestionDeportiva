@@ -1,0 +1,1 @@
+public class ValidacionException : Exception { public ValidacionException(string msg) : base(msg) {} }

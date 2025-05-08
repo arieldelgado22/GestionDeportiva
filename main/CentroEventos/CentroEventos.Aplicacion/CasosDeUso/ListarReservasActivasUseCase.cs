@@ -1,0 +1,1 @@
+public class ListarReservasActivasUseCase { public List<Reserva> Ejecutar() => new(); }

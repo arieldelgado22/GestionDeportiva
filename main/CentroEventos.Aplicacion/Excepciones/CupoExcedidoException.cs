@@ -1,0 +1,1 @@
+public class CupoExcedidoException : Exception { public CupoExcedidoException(string msg) : base(msg) {} }

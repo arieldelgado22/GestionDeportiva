@@ -1,0 +1,1 @@
+public class ReservarActividadUseCase { public void Ejecutar(Reserva reserva) {} }
